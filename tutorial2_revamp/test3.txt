@@ -1,0 +1,41 @@
+
+pip3 help         ->  
+-----------------------------------------------------------------
+pip3 search numpy -> searches the package's functionality 
+------------------------------------------------------------------
+pip3 list         -> gives a list of installed packages
+--------------------------------------------------------------------
+pip3 freeze   ->  gives the list of packages in a requirement format which can be appended to requirement.txt and later be installed in an another machine. 
+
+eg. pip3 freeze -> requirement.txt 
+
+requirement.txt would look something like the one below:
+
+numpy==1.9.0
+psutil==2.1.1
+pytz==2015.2
+Pympler==0.4
+.....
+
+and then we do
+
+pip3 install -r requirement.txt -> install all packages listed in that text file
+
+---------------------------------------------------------------------
+pip3 install numpy -> installing a package
+---------------------------------------------------------------------
+pip3 uninstall numpy -> uninstalling a package
+---------------------------------------------------------------------
+pip3 freeze --local | cut -d = -f 1  -> gives a list of all original names for the packages without the versions
+---------------------------------------------------------------------
+ pip3 freeze --local | cut -d = -f 1 | xargs -n1 pip3 install -U
+
+So basically the first two commands returns the name of the packages and the third in the pipeline takes the previous two as arguments (xargs) takes one by one (-n1) and installs them
+---------------------------------------------------------------------
+pip3 list --outdated  -> returns all the outdated packages
+---------------------------------------------------------------------
+
+
+
+
+

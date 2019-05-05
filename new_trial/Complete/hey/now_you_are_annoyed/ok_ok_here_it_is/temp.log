@@ -1,0 +1,65 @@
+2017-08-27 10:57:03,558:145:__main__:Current directory: /home/amardeep/PycharmProjects/new_trial/Complete/hey/now_you_are_annoyed/ok_ok_here_it_is
+2017-08-27 10:57:03,559:146:__main__:Current file: []
+2017-08-27 10:57:03,559:147:__main__:Filename: ['temp.log', 'out.txt', 'list.pkl', 'allobj.pkl']
+2017-08-27 10:57:03,559:178:__main__:{'withdraw_limit_perday': 20000, 'interest': 5, 'name': 'Amardeep', 'balance': 100000000}
+2017-08-27 10:57:03,559:178:__main__:{'withdraw_limit_perday': 100000, 'interest': 3, 'name': 'Steve', 'balance': 5000000}
+2017-08-27 10:57:03,559:178:__main__:{'withdraw_limit_perday': 500000, 'interest': 1, 'name': 'Elon', 'balance': 10000000}
+2017-08-27 10:57:03,559:178:__main__:{'withdraw_limit_perday': 50000, 'interest': 5, 'name': 'Vladimir', 'balance': 100000}
+2017-08-27 10:57:03,559:178:__main__:{'withdraw_limit_perday': 10000, 'interest': 6, 'name': 'Pope', 'balance': 5000}
+2017-08-27 10:57:03,613:234:__main__:Total execution time: 0.003176000000000005 secs
+2017-08-27 10:57:03,613:235:__main__:Execution record: 2017-08-27 10:57:03.613200
+2017-08-27 10:57:18,236:145:__main__:Current directory: /home/amardeep/PycharmProjects/new_trial/Complete/hey/now_you_are_annoyed/ok_ok_here_it_is
+2017-08-27 10:57:18,236:146:__main__:Current file: []
+2017-08-27 10:57:18,236:147:__main__:Filename: ['temp.log', 'out.txt', 'list.pkl', 'allobj.pkl']
+2017-08-27 10:57:18,236:180:__main__:Amardeep has balance of 100000000 with an interest rate of 5 % and withdrawal cap per day of 20000
+
+2017-08-27 10:57:18,236:180:__main__:Steve has balance of 5000000 with an interest rate of 3 % and withdrawal cap per day of 100000
+
+2017-08-27 10:57:18,236:180:__main__:Elon has balance of 10000000 with an interest rate of 1 % and withdrawal cap per day of 500000
+
+2017-08-27 10:57:18,236:180:__main__:Vladimir has balance of 100000 with an interest rate of 5 % and withdrawal cap per day of 50000
+
+2017-08-27 10:57:18,236:180:__main__:Pope has balance of 5000 with an interest rate of 6 % and withdrawal cap per day of 10000
+
+2017-08-27 10:57:18,236:184:__main__:Total balance of all account holders: 115105000
+
+2017-08-27 10:57:18,237:234:__main__:Total execution time: 0.001667999999999989 secs
+2017-08-27 10:57:18,237:235:__main__:Execution record: 2017-08-27 10:57:18.237083
+2017-08-27 10:57:26,970:145:__main__:Current directory: /home/amardeep/PycharmProjects/new_trial/Complete/hey/now_you_are_annoyed/ok_ok_here_it_is
+2017-08-27 10:57:26,970:146:__main__:Current file: []
+2017-08-27 10:57:26,970:147:__main__:Filename: ['temp.log', 'out.txt', 'list.pkl', 'allobj.pkl']
+2017-08-27 10:57:26,970:178:__main__:{'interest': 5, 'balance': 100000000, 'name': 'Amardeep', 'withdraw_limit_perday': 20000}
+2017-08-27 10:57:26,970:178:__main__:{'interest': 3, 'balance': 5000000, 'name': 'Steve', 'withdraw_limit_perday': 100000}
+2017-08-27 10:57:26,970:178:__main__:{'interest': 1, 'balance': 10000000, 'name': 'Elon', 'withdraw_limit_perday': 500000}
+2017-08-27 10:57:26,970:178:__main__:{'interest': 5, 'balance': 100000, 'name': 'Vladimir', 'withdraw_limit_perday': 50000}
+2017-08-27 10:57:26,970:178:__main__:{'interest': 6, 'balance': 5000, 'name': 'Pope', 'withdraw_limit_perday': 10000}
+2017-08-27 10:57:26,971:234:__main__:Total execution time: 0.0017110000000000042 secs
+2017-08-27 10:57:26,971:235:__main__:Execution record: 2017-08-27 10:57:26.971259
+2017-08-27 10:57:36,538:145:__main__:Current directory: /home/amardeep/PycharmProjects/new_trial/Complete/hey/now_you_are_annoyed/ok_ok_here_it_is
+2017-08-27 10:57:36,538:146:__main__:Current file: []
+2017-08-27 10:57:36,538:147:__main__:Filename: ['temp.log', 'out.txt', 'list.pkl', 'allobj.pkl']
+2017-08-27 10:57:36,539:234:__main__:Total execution time: 0.002238999999999991 secs
+2017-08-27 10:57:36,539:235:__main__:Execution record: 2017-08-27 10:57:36.539525
+2017-08-27 10:57:50,938:145:__main__:Current directory: /home/amardeep/PycharmProjects/new_trial/Complete/hey/now_you_are_annoyed/ok_ok_here_it_is
+2017-08-27 10:57:50,938:146:__main__:Current file: []
+2017-08-27 10:57:50,938:147:__main__:Filename: ['temp.log', 'out.txt', 'list.pkl', 'allobj.pkl']
+2017-08-27 10:57:50,938:180:__main__:Amardeep has balance of 100000000 with an interest rate of 5 % and withdrawal cap per day of 20000
+
+2017-08-27 10:57:50,938:180:__main__:Steve has balance of 5000000 with an interest rate of 3 % and withdrawal cap per day of 100000
+
+2017-08-27 10:57:50,938:180:__main__:Elon has balance of 10000000 with an interest rate of 1 % and withdrawal cap per day of 500000
+
+2017-08-27 10:57:50,938:180:__main__:Vladimir has balance of 100000 with an interest rate of 5 % and withdrawal cap per day of 50000
+
+2017-08-27 10:57:50,938:180:__main__:Pope has balance of 5000 with an interest rate of 6 % and withdrawal cap per day of 10000
+
+2017-08-27 10:57:50,938:184:__main__:Total balance of all account holders: 115105000
+
+2017-08-27 10:57:50,939:234:__main__:Total execution time: 0.0020910000000000026 secs
+2017-08-27 10:57:50,939:235:__main__:Execution record: 2017-08-27 10:57:50.939172
+2017-08-27 12:01:24,725:145:__main__:Current directory: /home/amardeep/PycharmProjects/new_trial/Complete/hey/now_you_are_annoyed/ok_ok_here_it_is
+2017-08-27 12:01:24,725:146:__main__:Current file: []
+2017-08-27 12:01:24,725:147:__main__:Filename: ['temp.log', 'out.txt', 'list.pkl', 'allobj.pkl']
+2017-08-27 12:01:24,725:202:__main__:File last modified: 2017-08-09 16:28:00.145353
+2017-08-27 12:01:24,726:234:__main__:Total execution time: 0.001691000000000005 secs
+2017-08-27 12:01:24,726:235:__main__:Execution record: 2017-08-27 12:01:24.726218

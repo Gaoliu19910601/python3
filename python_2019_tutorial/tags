@@ -1,0 +1,199 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+A1	tutorial1.py	/^A1 = 10$/;"	v
+Age_stats	tut12_titanic.py	/^Age_stats = pd.DataFrame([children_list,$/;"	v
+Animal	tut6.py	/^class Animal():$/;"	c
+B	tutorial1.py	/^B = "hey man wassup"$/;"	v
+BabyDog	tut6.py	/^class BabyDog(Dog):$/;"	c
+C	tutorial1.py	/^C = (10,23,45,22,11,'amar','wtf') # Tuple - cannot do item assignment$/;"	v
+Cat	tut6.py	/^class Cat(Animal):$/;"	c
+D	tutorial1.py	/^D = [[12,34,56],12,11,95,(33,45,67)] # List - can do item assignment$/;"	v
+Date	tut6.py	/^class Date:$/;"	c
+Dog	tut6.py	/^class Dog(Animal):$/;"	c
+E	tutorial1.py	/^E = {'name':"Amar",'Age':43} # Dictionary$/;"	v
+Edu_class	tut6.py	/^class Edu_class():$/;"	c
+Emp_strength	tut6.py	/^    def Emp_strength(cls, employee_strength):$/;"	m	class:amaran
+Error	tut7.py	/^class Error(Exception):$/;"	c
+F	tutorial1.py	/^F = {23,34,45,56,67,78,89,23,34,45} # set$/;"	v
+GetcourseName	tut6.py	/^    def GetcourseName(self):$/;"	m	class:Edu_class
+MMA_day	tutorial1.py	/^MMA_day = "Friday"$/;"	v
+Rectangle	tut6.py	/^class Rectangle(object):$/;"	c
+SetcourseName	tut6.py	/^    def SetcourseName(self, name2):$/;"	m	class:Edu_class
+Setteacher	tut6.py	/^    def Setteacher(self, name):$/;"	m	class:education_teacher
+Square	tut6.py	/^class Square(Rectangle):$/;"	c
+Survival_age	tut12_titanic.py	/^Survival_age = [children_data.mean()['Survived'],$/;"	v
+ValueLargeError	tut7.py	/^class ValueLargeError(Error):$/;"	c
+ValueSmallError	tut7.py	/^class ValueSmallError(Error):$/;"	c
+X	tutorial1.py	/^X = 6$/;"	v
+Y	tutorial1.py	/^Y = 15$/;"	v
+__init__	tut6.py	/^    def __init__(self):$/;"	m	class:amaran
+__init__	tut6.py	/^    def __init__(self):$/;"	m	class:first
+__init__	tut6.py	/^    def __init__(self):$/;"	m	class:second
+__init__	tut6.py	/^    def __init__(self):$/;"	m	class:third
+__init__	tut6.py	/^    def __init__(self, day, month, year):$/;"	m	class:Date
+__init__	tut6.py	/^    def __init__(self, length, breath):$/;"	m	class:Rectangle
+__init__	tut6.py	/^    def __init__(self, name):$/;"	m	class:Edu_class
+__init__	tut6.py	/^    def __init__(self, side):$/;"	m	class:Square
+__private_method	tut6.py	/^    def __private_method(self):$/;"	m	class:amaran	file:
+a	tut10_data_mani.py	/^a = pd.DataFrame({'key':['K0','K1','K2','K3','K4'],$/;"	v
+a	tut5.py	/^a = [i*i for i in [5,3,9,7]]$/;"	v
+a	tutorial1.py	/^a = 12-5j$/;"	v
+a	tutorial1.py	/^a = []$/;"	v
+add	tut5.py	/^def add(a,b):$/;"	f
+adult_data	tut12_titanic.py	/^adult_data = data[data['Age'] > 18.0]$/;"	v
+adult_list	tut12_titanic.py	/^adult_list = [adult_data['Pclass'].count(),adult_data['Survived'].sum()]$/;"	v
+age	tut5.py	/^age = 21$/;"	v
+age_data	tut12_titanic.py	/^age_data = data.groupby('Age',as_index=False)$/;"	v
+age_list	tut12_titanic.py	/^age_list = age_mean_data['Age'].tolist()$/;"	v
+age_mean_data	tut12_titanic.py	/^age_mean_data = age_data.mean()$/;"	v
+age_wrangled	tut12_titanic.py	/^age_wrangled = data[pd.notnull(data['Age'])]$/;"	v
+amar	tut10_data_mani.py	/^amar = pd.Series(np.arange(1,101))$/;"	v
+amar	tut5.py	/^amar = ["mahogany",'red','blue'] # List$/;"	v
+amar	tut6.py	/^amar = amaran()$/;"	v
+amar1	tut10_data_mani.py	/^amar1 = pd.DataFrame({'amar':amar,'deep':deep})$/;"	v
+amar2	tut6.py	/^amar2 = amaran()$/;"	v
+amar_dict	tut9_matplotlib.py	/^amar_dict = {'a':23, 'b':45, 'c':14, 'd':34, 'e':78}$/;"	v
+amaran	tut6.py	/^class amaran():$/;"	c
+ans	tut6.py	/^ans = (lambda z: z * 4)$/;"	v
+args	fibi.py	/^args = parser.parse_args()$/;"	v
+b	tut10_data_mani.py	/^b = pd.DataFrame({'key':['K0','K1','K2','K3','K6'],$/;"	v
+b	tut5.py	/^b = (2,5,7,9,4)$/;"	v
+b	tutorial1.py	/^b = 6+4j$/;"	v
+bark	tut6.py	/^    def bark(self):$/;"	m	class:Dog
+base	tut6.py	/^class base:$/;"	c
+c	tut5.py	/^c = {1,2,3,4,5,'f'}$/;"	v
+c	tutorial1.py	/^    c = 1$/;"	v
+children_list	tut12_titanic.py	/^children_list = [children_data['Pclass'].count(),children_data['Survived'].sum()]$/;"	v
+chok	tut10_data_mani.py	/^chok = pd.DataFrame(chokers)$/;"	v
+chokers	tut10_data_mani.py	/^chokers = {'Team':['Zimbabwe','South Africa','Nepal'],$/;"	v
+color_elev	tut11_volcano_map.py	/^def color_elev(eleva):$/;"	f
+compare_survival_rate	tut12_titanic.py	/^compare_survival_rate = total_nos.add(total_survived,fill_value=0)$/;"	v
+course	tut6.py	/^    course = "Python"$/;"	v	class:education_teacher
+cubic	tut6.py	/^cubic = list(map(lambda z: z ** 3, items))$/;"	v
+d	tut5.py	/^d = {4,5,6,7,8}$/;"	v
+data	tut11_volcano_map.py	/^data = pd.read_csv("volcanoes_usa.txt")$/;"	v
+data	tut12_titanic.py	/^data = pd.read_csv('titanic.csv')$/;"	v
+data	tut4.py	/^data = {'name':'amar','age':30,'Job':'designer'}$/;"	v
+data_dict	tut8.py	/^data_dict = {'a':2,"b":3,"c":4,'d':500,'e':600,'f':800,'g':400}$/;"	v
+dataset	tut13_webscraping.py	/^dataset = pd.read_excel('verlegenhuken.xlsx',sheet_name=0)$/;"	v
+deep	tut10_data_mani.py	/^deep = pd.Series(np.arange(101,201))$/;"	v
+deep	tut6.py	/^deep = Edu_class("Python")$/;"	v
+e	tut5.py	/^e = {3,4,5,'f'}$/;"	v
+eat	tut6.py	/^    def eat(self):$/;"	m	class:Animal
+education_teacher	tut6.py	/^class education_teacher():$/;"	c
+elev	tut11_volcano_map.py	/^elev = list(data['ELEV'])$/;"	v
+embed_document	Weather.html	/^                  function embed_document(root) {$/;"	f
+embed_document	scatter.html	/^                  function embed_document(root) {$/;"	f
+enumerate_grocery	tut6.py	/^enumerate_grocery = enumerate(grocery,10)$/;"	v
+fg	tut11_volcano_map.py	/^fg = folium.FeatureGroup(name='Volcanoes')$/;"	v
+fib	fibi.py	/^def fib(n):$/;"	f
+filter_out	tut6.py	/^filter_out = list(filter(lambda x: x < 0, list1))$/;"	v
+first	tut6.py	/^class first(object):$/;"	c
+fun	tut6.py	/^    def fun(self):$/;"	m	class:base
+fun	tut6.py	/^    def fun(self):$/;"	m	class:sub
+func	tut_sample1.py	/^def func():$/;"	f
+g	tutorial1.py	/^g = 12$/;"	v
+gender_data	tut12_titanic.py	/^gender_data = data.groupby('Sex',as_index=False)$/;"	v
+gender_mean_data	tut12_titanic.py	/^gender_mean_data = gender_data.mean() # get mean of all columns w.r.t Sex$/;"	v
+get_area	tut6.py	/^    def get_area(self):$/;"	m	class:Rectangle
+get_area	tut6.py	/^    def get_area(self):$/;"	m	class:Square
+grocery	tut6.py	/^grocery = ["Tomatoes","Onion","Honey"]$/;"	v
+group	fibi.py	/^group = parser.add_mutually_exclusive_group()$/;"	v
+h	tutorial1.py	/^h = 13$/;"	v
+histy	tut9_matplotlib.py	/^histy = np.random.rand(10,10)$/;"	v
+horizontalalignment	tut12_titanic.py	/^         horizontalalignment='center',$/;"	v
+horizontalalignment	tut12_titanic.py	/^     horizontalalignment='center',$/;"	v
+index	tut10_data_mani.py	/^                       index=['row-1','row-2','row-3','row-4'])$/;"	v
+index	tut12_titanic.py	/^                         index=['Children','Adult'])$/;"	v
+info	tut6.py	/^def info(name, age, salary=10000):$/;"	f
+info2	tut6.py	/^def info2(name, *names):$/;"	f
+info3	tut6.py	/^def info3(arg1, arg2, arg3, *args, **kwargs):$/;"	f
+items	tut6.py	/^items = [1, 2, 3, 4]$/;"	v
+j	tutorial1.py	/^    j = j-1$/;"	v
+j	tutorial1.py	/^j = 10$/;"	v
+jim_series	tut8.py	/^jim_series = table4.pop('Jim')$/;"	v
+json_script	tut4.py	/^json_script = json.dumps(data)$/;"	v
+labels	tut9_matplotlib.py	/^labels = ['car','food','rent','bus','cloth','radio','shoe','TV']$/;"	v
+lat	tut11_volcano_map.py	/^lat = list(data['LAT'])$/;"	v
+list1	tut6.py	/^list1 = [-5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5]$/;"	v
+listx	tut8.py	/^listx = [2,5,3,7,4,8,3]$/;"	v
+listx2	tut8.py	/^listx2 = [{'a':1,'b':11},{'a':2,"b":22},{'a':3,"b":33}]$/;"	v
+listx3	tut8.py	/^listx3 = [{'a':1,'b':11},{'a':2,"b":22},{'a':3,"b":33},{'a':4,"b":44,'c':444}]$/;"	v
+lon	tut11_volcano_map.py	/^lon = list(data['LON'])$/;"	v
+map	tut11_volcano_map.py	/^map = folium.Map(location=[46.856211, -112.366048],zoom_start=6, tiles='Mapbox bright')$/;"	v
+mdy	tut6.py	/^    def mdy(cls, month, day, year):$/;"	m	class:Date
+my_birthday	tut6.py	/^my_birthday = Date(27, 11, 1988)$/;"	v
+my_birthday2	tut6.py	/^my_birthday2 = Date.mdy(11, 27, 1988)$/;"	v
+my_birthday3	tut6.py	/^my_birthday3 = Date.ymd(1988, 11, 27)$/;"	v
+my_course1	tut6.py	/^my_course1 = education_teacher()$/;"	v
+my_course2	tut6.py	/^my_course2 = education_teacher()$/;"	v
+my_value	tut7.py	/^    my_value = int(input("Enter your value: "))$/;"	v	class:ValueSmallError
+n	tut8.py	/^n = np.array([11,23,54,76,35,85,35])$/;"	v
+name	tut5.py	/^name = 'amar'$/;"	v
+newfile	tut2.py	/^newfile = open("edu_tut.txt", 'r')$/;"	v
+no_passengers	tut12_titanic.py	/^no_passengers = age_data.count()['Name']$/;"	v
+num	tut4.py	/^num = random.randrange(100) # anything between 0-100$/;"	v
+number	tutorial1.py	/^number = 10$/;"	v
+o	tut8.py	/^o = pd.Series(n)$/;"	v
+o_dict	tut8.py	/^o_dict = pd.Series(data_dict)$/;"	v
+ob	tut6.py	/^ob = sub()$/;"	v
+ob3	tut6.py	/^ob3 = BabyDog()$/;"	v
+ob5	tut6.py	/^ob5 = Cat()$/;"	v
+ob6	tut6.py	/^ob6 = Dog()$/;"	v
+odd_even	tut10_data_mani.py	/^odd_even = pd.DataFrame({'even':pd.Series(np.arange(0,100,2)),$/;"	v
+p	tut13_webscraping.py	/^p = figure(plot_width=500,plot_height=400)$/;"	v
+parser	fibi.py	/^parser = argparse.ArgumentParser()$/;"	v
+person	tut5.py	/^person = {$/;"	v
+product	tut6.py	/^product = reduce(lambda x, y: x * y, [2, 3, 4, 5])$/;"	v
+public_method	tut6.py	/^    def public_method(self):$/;"	m	class:amaran
+r	tut4.py	/^        r = 1\/int(entry)$/;"	v
+rand_list	tut4.py	/^rand_list = ['a',0,2]$/;"	v
+result	fibi.py	/^result = fib(args.num)$/;"	v
+rint	tut4.py	/^rint = random.randint(0,30) # any integer between range 0-30$/;"	v
+row	tut8.py	/^row = pd.DataFrame([[11,23,45,54]],index=['FD-4'],columns=['ID-1','ID-2','ID-3','ID-4'])$/;"	v
+rum	tut4.py	/^rum = random.randrange(0,100,5) # in steps of 5 between range 0-100$/;"	v
+sample1	tut10_data_mani.py	/^sample1 = pd.DataFrame(np.random.rand(4,5),columns=['col-1','col-2','col-3','col-4','col-5'],$/;"	v
+scatter_ex	tut12_titanic.py	/^scatter_ex = plt.scatter(age_mean_data['Age'],age_mean_data['Survived'],s=80,alpha=0.9,c=no_passengers,cmap='RdYlGn',edgecolors='none',vmin=0,vmax=30)$/;"	v
+second	tut6.py	/^class second():$/;"	c
+series1	tut8.py	/^series1 = pd.Series([70,45,85,56,67],index=['Maths','Chemistry','Physics','c++','Biology'])$/;"	v
+series2	tut8.py	/^series2 = pd.Series([95,64,35,68,79],index=['Maths','Chemistry','Physics','c++','Biology'])$/;"	v
+squared	tut6.py	/^squared = [z**2 for z in items]$/;"	v
+squared	tut6.py	/^squared = list(map(lambda z: z ** 2, items))$/;"	v
+start_time	fibi.py	/^start_time = time.clock()$/;"	v
+sub	tut6.py	/^class sub(base):$/;"	c
+survival_data	tut12_titanic.py	/^survival_data = data.groupby('Survived',as_index=False)$/;"	v
+survived_labels	tut12_titanic.py	/^survived_labels = compare_survival_rate.loc[0]['Survived'],compare_survival_rate.loc[1]['Survived']$/;"	v
+survived_stats	tut12_titanic.py	/^survived_stats = survival_data['Age'].describe()$/;"	v
+table	tut8.py	/^table = pd.DataFrame(listx)$/;"	v
+table2	tut8.py	/^table2 = pd.DataFrame(listx2,index=['Row-1','Row-2','Row-3'])$/;"	v
+table3	tut8.py	/^table3 = pd.DataFrame(listx3,index=['Amar','Dilip','Ramana','Hanu'])$/;"	v
+table4	tut8.py	/^table4 = pd.DataFrame({'Amar':series1,$/;"	v
+table5	tut8.py	/^table5 = pd.DataFrame({'ID-1': pd.Series([25,46,79],index=['FD-1','FD-2','FD-3']),$/;"	v
+table5	tut8.py	/^table5 = table5.append(row)$/;"	v
+table6	tut8.py	/^table6 = pd.read_csv("pandas_example.csv")$/;"	v
+talk	tut6.py	/^    def talk(self):$/;"	m	class:Animal
+talk	tut6.py	/^    def talk(self):$/;"	m	class:Cat
+talk	tut6.py	/^    def talk(self):$/;"	m	class:Dog
+third	tut6.py	/^class third(second, first):$/;"	c
+today	tutorial1.py	/^today = "Friday"$/;"	v
+total_labels	tut12_titanic.py	/^total_labels = compare_survival_rate.loc[0]['Total'],compare_survival_rate.loc[1]['Total']$/;"	v
+total_list	tut12_titanic.py	/^total_list = [children_list,adult_list]$/;"	v
+total_nos	tut12_titanic.py	/^total_nos = gender_data['Name'].count()$/;"	v
+total_survived	tut12_titanic.py	/^total_survived = gender_data['Survived'].sum()$/;"	v
+v	tut6.py	/^v = Rectangle(4, 8)$/;"	v
+value	tut7.py	/^value = 10$/;"	v
+w	tut6.py	/^w = Square(3)$/;"	v
+wc	tut10_data_mani.py	/^wc = pd.DataFrame(world_cup)$/;"	v
+weep	tut6.py	/^    def weep(self):$/;"	m	class:BabyDog
+world_cup	tut10_data_mani.py	/^world_cup = {'Team':['West Indies','West Indies','India','Australia','Pakistan','Sri Lanka','Australia','Australia','Australia','India','Australia'],$/;"	v
+x	tut9_matplotlib.py	/^x = [40,23,15,17,46,87,45,36]$/;"	v
+x	tut9_matplotlib.py	/^x = range(5)$/;"	v
+x1	tut9_matplotlib.py	/^x1 = np.random.rand(400)$/;"	v
+y	tut9_matplotlib.py	/^y = [i**2 for i in x]$/;"	v
+y1	tut9_matplotlib.py	/^y1 = np.random.rand(400)$/;"	v
+ymd	tut6.py	/^    def ymd(cls, year, month, day):$/;"	m	class:Date
+yoga_day	tutorial1.py	/^yoga_day = "Saturday"$/;"	v

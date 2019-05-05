@@ -1,0 +1,6 @@
+Amardeep holds 100000000 $ in his account with interest 5 % and withdraw cap per day of 20000
+Steve holds 5000000 $ in his account with interest 3 % and withdraw cap per day of 100000
+Elon holds 10000000 $ in his account with interest 1 % and withdraw cap per day of 500000
+Vladimir holds 100000 $ in his account with interest 5 % and withdraw cap per day of 50000
+Pope holds 5000 $ in his account with interest 6 % and withdraw cap per day of 10000
+45
